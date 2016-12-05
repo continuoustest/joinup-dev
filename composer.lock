@@ -1953,8 +1953,8 @@
                     "dev-1.x": "1.x-dev"
                 },
                 "drupal": {
-                    "version": "8.x-1.0-rc6+0-dev",
-                    "datestamp": "1480365484"
+                    "version": "8.x-1.0-rc4+54-dev",
+                    "datestamp": "1479073440"
                 }
             },
             "notification-url": "https://packages.drupal.org/8/downloads",
@@ -3005,12 +3005,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ec-europa/infra.git",
-                "reference": "ba5066b576f4f1e4b97e03f01042c7b3ddf5837e"
+                "reference": "3bc42238f4c12a50c28fcae8eef79848a8177b9c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ec-europa/infra/zipball/ba5066b576f4f1e4b97e03f01042c7b3ddf5837e",
-                "reference": "ba5066b576f4f1e4b97e03f01042c7b3ddf5837e",
+                "url": "https://api.github.com/repos/ec-europa/infra/zipball/3bc42238f4c12a50c28fcae8eef79848a8177b9c",
+                "reference": "3bc42238f4c12a50c28fcae8eef79848a8177b9c",
                 "shasum": ""
             },
             "require": {
@@ -3029,7 +3029,7 @@
                     "email": "gregory@siwhine.net"
                 }
             ],
-            "time": "2016-11-25 13:15:25"
+            "time": "2016-12-05 13:04:24"
         },
         {
             "name": "egulias/email-validator",
@@ -7410,7 +7410,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/klausi/coder/zipball/b08682bd939cf7d3ac7034bee792aa17f80e19d7",
                 "reference": "b08682bd939cf7d3ac7034bee792aa17f80e19d7",
-                "shasum": ""
+                "shasum": null
             },
             "require": {
                 "ext-mbstring": "*",
@@ -7422,7 +7422,7 @@
                 "phpunit/phpunit": ">=3.7"
             },
             "type": "library",
-            "notification-url": "https://packagist.org/downloads/",
+            "notification-url": "https://packagist.drupal-composer.org/downloads/",
             "license": [
                 "GPL-2.0+"
             ],
