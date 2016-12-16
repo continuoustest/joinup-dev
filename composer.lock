@@ -2587,7 +2587,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://ftp.drupal.org/files/projects/search_api-8.x-1.0-beta3.zip",
-                "reference": null,
+                "reference": "8.x-1.0-beta3",
                 "shasum": "5dd6a5ecef42b760454cbfeb5fa5a1317498a931"
             },
             "require": {
@@ -2813,7 +2813,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://ftp.drupal.org/files/projects/taxonomy_container-8.x-1.0.zip",
-                "reference": null,
+                "reference": "8.x-1.0",
                 "shasum": "0e88aa7f88afc5387ab723297a29dca5574d267a"
             },
             "require": {
