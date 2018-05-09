@@ -2152,8 +2152,6 @@ class JoinupSubContext extends DrupalSubContextBase implements DrupalSubContextI
 
     if ($element->find('css', '.listing__card.is-featured')) {
       throw new \Exception("The tile '$heading' is marked as featured, but it shouldn't be.");
-    } else {
-        trigger_error(getenv('CPHP_BUILD_ID') . '-' . uniqid() . '-SUCCESS-listing__card.is-featured', E_USER_NOTICE);
     }
   }
 
